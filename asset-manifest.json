@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee_register/static/css/main.ef11492c.css",
+    "main.js": "/employee_register/static/js/main.08c715d4.js",
+    "static/js/787.cbe9ca99.chunk.js": "/employee_register/static/js/787.cbe9ca99.chunk.js",
+    "index.html": "/employee_register/index.html",
+    "main.ef11492c.css.map": "/employee_register/static/css/main.ef11492c.css.map",
+    "main.08c715d4.js.map": "/employee_register/static/js/main.08c715d4.js.map",
+    "787.cbe9ca99.chunk.js.map": "/employee_register/static/js/787.cbe9ca99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef11492c.css",
+    "static/js/main.08c715d4.js"
+  ]
+}
